@@ -1,4 +1,5 @@
-import Navbar from './components/Navbar';  // Supondo que a Navbar seja um componente separado
+import React from 'react';
+import Navbar from 'site-coef\src\app\components\NavItem\index.css';  // Corrigindo o caminho
 
 export default function Home() {
   return (
