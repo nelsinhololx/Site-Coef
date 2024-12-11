@@ -1,10 +1,8 @@
-
-
 const Page = () => {
   return (
     <div>
       oiii
-
+      
     </div>
   );
 };
